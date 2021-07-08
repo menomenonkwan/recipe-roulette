@@ -1,0 +1,26 @@
+const mealTypes = [
+  { id: 1, name: 'Breakfast', type: 'mealType'},
+  { id: 2, name: 'Lunch', type: 'mealType'},
+  { id: 3, name: 'Dinner', type: 'mealType'},
+  { id: 4, name: 'Snack', type: 'mealType'},
+  { id: 5, name: 'Pancake', type: 'mealType'},
+  { id: 6, name: 'Omelet', type: 'mealType'},
+  { id: 7, name: 'vegan', type: 'health'},
+  { id: 8, name: 'vegetarian', type: 'health'},
+  { id: 9, name: 'gluten-free', type: 'health'},
+  { id: 10, name: 'low-sugar', type: 'health'},
+  { id: 11, name: 'Chinese', type: 'cuisineType'},
+  { id: 12, name: 'Caribbean', type: 'cuisineType'},
+  { id: 13, name: 'Mediterranean', type: 'cuisineType'},
+  { id: 14, name: 'Japanese', type: 'cuisineType'},
+  { id: 15, name: 'Indian', type: 'cuisineType'},
+  { id: 16, name: 'Mexican', type: 'cuisineType'},
+  { id: 17, name: 'French', type: 'cuisineType'},
+  { id: 18, name: 'Desserts', type: 'dishType'},
+  { id: 19, name: 'balanced', type: 'diet'},
+  { id: 20, name: 'high-fiber', type: 'diet'},
+  { id: 21, name: 'low-carb', type: 'diet'},
+  { id: 22, name: 'low-sodium', type: 'diet'},
+];
+
+export default mealTypes;
