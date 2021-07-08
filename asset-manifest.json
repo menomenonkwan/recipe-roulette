@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/recipe-roulette/static/js/main.e6466b37.chunk.js",
-    "main.js.map": "/recipe-roulette/static/js/main.e6466b37.chunk.js.map",
+    "main.js": "/recipe-roulette/static/js/main.e6312f8a.chunk.js",
+    "main.js.map": "/recipe-roulette/static/js/main.e6312f8a.chunk.js.map",
     "runtime-main.js": "/recipe-roulette/static/js/runtime-main.e78861ea.js",
     "runtime-main.js.map": "/recipe-roulette/static/js/runtime-main.e78861ea.js.map",
     "static/js/2.1e28ca87.chunk.js": "/recipe-roulette/static/js/2.1e28ca87.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.e78861ea.js",
     "static/js/2.1e28ca87.chunk.js",
-    "static/js/main.e6466b37.chunk.js"
+    "static/js/main.e6312f8a.chunk.js"
   ]
 }
